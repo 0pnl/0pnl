@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align='center'> Hi there 👋, I'm Ludo  👩‍💻 </h1>
 
-<!--
-**0pnl/0pnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🔭  I’m currently working with ...</h3>
 
-Here are some ideas to get you started:
+<h4>Back-end</h4>
+<p >
+  <img src="https://skillicons.dev/icons?i=nodejs" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" />&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Front-end</h4>
+<p >
+  <img src="https://skillicons.dev/icons?i=react" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=materialui" />&nbsp;
+</p>
+
+<h4>Other Language</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=c" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=haskell" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=regex" />&nbsp;
+</p>
+
+<h4>Tools</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=discord" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" />&nbsp;
+</p>
